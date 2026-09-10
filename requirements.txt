@@ -1,0 +1,19 @@
+# Core web app framework
+streamlit>=1.36.0
+
+# LangChain core + integrations
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-google-genai>=1.0.7
+
+# Vector database for similarity search
+faiss-cpu>=1.8.0
+
+# PDF text extraction (used internally by PyPDFLoader)
+pypdf>=4.2.0
+
+# For loading API keys from a .env file
+python-dotenv>=1.0.1
+
+
+langchain-text-splitters>=1.1.2
