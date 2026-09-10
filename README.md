@@ -108,3 +108,6 @@ pdf_rag_chatbot/
 - This project structure is intentionally modular (separate `utils/` files)
   so each part of the RAG pipeline can be explained, tested, or swapped out
   independently — useful for interviews and further development.
+
+
+  Live Link:- https://pdf-rag-chatbot-blswekfskzkzavwtcja2jd.streamlit.app/
